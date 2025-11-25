@@ -33,7 +33,7 @@
             <h4>🤖 AI & ML</h4>
             <ul>
               <li>Python, PyTorch, TensorFlow</li>
-              <li>AI Agent, CrewAI, ADK, A2A<</li>
+              <li>AI Agent, CrewAI, ADK, A2A</li>
               <li>FastAPI, PostgreSQL, Redis</li>
               <li>Docker, GitHub </li>
             </ul>          
@@ -42,14 +42,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Loul-Zaster&show_icons=true&theme=github_dark&hide=prs,issues&rank_icon=percentile" />
-</p>
 
 ---
 
